@@ -17,4 +17,4 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 - [Font Awesome](https://fontawesome.com/) for icons
 - GitHub Pages for hosting
 
-## 📁 Project Structure
+
