@@ -425,7 +425,7 @@
             width: 40px;
             height: 40px;
             border-radius: 50%;
-            background-color: rgba(255,255,255,0.1);
+            background-color: rgb(3, 7, 24);
             color: white;
             margin-right: 10px;
             transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
